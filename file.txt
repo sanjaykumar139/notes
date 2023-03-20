@@ -1,0 +1,14 @@
+https://github.com/sanjaykumar139/notes.git
+
+
+
+-angular
+npm install bootstrap font-awesome
+
+style.css
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+
+
+
+
